@@ -1,9 +1,9 @@
 {
   "name": "@walnut/common",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "echo testing server with version: %npm_package_version%" 
+    "test": "echo testing server with version: %npm_package_version%"
   }
 }
