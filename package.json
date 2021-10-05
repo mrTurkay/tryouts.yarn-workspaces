@@ -1,0 +1,7 @@
+{
+  "name": "walnut",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
